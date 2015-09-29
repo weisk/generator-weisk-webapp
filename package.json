@@ -1,7 +1,7 @@
 {
   "name": "generator-weisk-webapp",
   "author": "weisk <franml87@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple & Clean Yeoman Starter for Angular apps (gulp, coffee, sass, jade)",
   "homepage": "https://github.com/weisk/generator-weisk-webapp#readme",
   "keywords": [
