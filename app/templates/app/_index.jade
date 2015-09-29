@@ -1,0 +1,17 @@
+doctype html
+html(lang="en")
+
+  head
+    meta(charset="utf-8")
+    meta(name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width")
+    title <%= slugName %>
+    base(href="/")
+    link(href="lib.css" rel="stylesheet")
+    link(href="app.css" rel="stylesheet")
+
+  body(ng-app="app")
+    div#root(ui-view)
+
+    script(src="lib.js")
+    script(src="templates.js")
+    script(src="app.js")

@@ -1,0 +1,14 @@
+{
+  "name": "<%= slugName %>",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-animate": "~1.4.0",
+    "angular-aria": "~1.4.0",
+    "angular-material": "~0.11.0",
+    "angular-messages": "~1.4.6",
+    "angular-resource": "~1.4.0",
+    "angular-ui-router": "~0.2.15",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  }
+}
